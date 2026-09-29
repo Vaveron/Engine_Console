@@ -1,0 +1,5 @@
+1 RCDATA "./resources/wall.json"
+2 RCDATA "./resources/door_x.json"
+3 RCDATA "./resources/door_y.json"
+4 RCDATA "./resources/none.json"
+5 RCDATA "./resources/map_test.json"
